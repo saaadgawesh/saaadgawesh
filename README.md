@@ -1,16 +1,169 @@
-## Hi there 👋
 
-<!--
-**saaadgawesh/saaadgawesh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+👋 Hi, I'm Saad Gawesh
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+👉 Flutter Developer building modern, scalable, and user-focused mobile experiences
+
+📬 Contact
+
+📧 Email: saadgawesh608@gmail.com
+
+💻 GitHub: https://github.com/saaadgawesh
+
+🔗 LinkedIn:
+https://www.linkedin.com/in/mohamed-gawish-flutter-developer
+
+🙋‍♂️ About Me
+
+🚀 Flutter developer focused on building clean, responsive, and production-ready applications.
+💡 I enjoy turning product ideas into polished mobile experiences with solid architecture, reusable components, and smooth user flows.
+
+🛠️ Tech Stack
+📱 Mobile & Core
+
+👉 Flutter
+👉 Dart
+
+🔄 State Management
+
+👉 Bloc
+👉 Cubit
+👉 Provider
+👉 Equatable
+
+🔥 Backend & Firebase
+
+👉 Firebase
+👉 Firebase Auth
+👉 Cloud Firestore
+👉 Firebase Storage
+👉 Firebase Messaging
+
+🌐 Networking & APIs
+
+👉 REST API
+👉 Dio
+👉 HTTP
+👉 Retrofit
+
+🧱 Architecture & DI
+
+👉 Clean Architecture
+👉 GetIt
+👉 Injectable
+👉 JSON Serializable
+
+💾 Local Storage & Utilities
+
+👉 Hive
+👉 SQLite
+👉 Shared Preferences
+
+🗺️ Maps & UI
+
+👉 Google Maps
+👉 Flutter Map
+👉 Geolocator
+👉 Responsive UI
+👉 ScreenUtil
+👉 Localization
+
+🚀 Featured Projects
+📦 RouteX Fleet Management
+
+👉 Fleet and shipment management app for drivers and warehouse teams
+🔧 Tech: Flutter, Bloc, Equatable, go_router
+🔗 Repo: https://github.com/saaadgawesh/routex
+
+🛍️ IT Legend Task
+
+👉 Ads, products, and booking experience with modular UI
+🔧 Tech: Flutter, Bloc, SQLite
+🔗 Repo: https://github.com/saaadgawesh/it_legend_task
+
+💬 TamTam
+
+👉 Firebase-powered multi-screen app
+🔧 Tech: Flutter, Firebase, Firestore
+🔗 Repo: https://github.com/saaadgawesh/tamtam
+
+🛒 E-Commerce App
+
+👉 Full e-commerce experience with Firebase & DI
+🔧 Tech: Flutter, Firebase Auth, Bloc, Dio
+🔗 Repo: https://github.com/saaadgawesh/ecomerce_app
+
+🧠 Product Clean Architecture
+
+👉 Feature module using clean architecture
+🔧 Tech: Flutter, Retrofit, Cubit
+🔗 Repo: https://github.com/saaadgawesh/product_clean_architecture
+
+💬 WhatsApp Clone
+
+👉 Chat + Auth + Maps + Profile flows
+🔧 Tech: Flutter, Firebase, Google Maps
+🔗 Repo: https://github.com/saaadgawesh/whats_app
+
+✅ Todo App
+
+👉 Tasks + Firebase + Local storage
+🔧 Tech: Flutter, Hive, Provider
+🔗 Repo: https://github.com/saaadgawesh/todo_app
+
+📰 News App
+
+👉 Category-based news with API
+🔧 Tech: Flutter, HTTP
+🔗 Repo: https://github.com/saaadgawesh/newsapp
+
+🏠 Real Estate App
+
+👉 Responsive property showcase
+🔧 Tech: Flutter, Responsive UI
+🔗 Repo: https://github.com/saaadgawesh/realEstate
+
+🩺 Doctor Appointment App
+
+👉 Healthcare booking system
+🔧 Tech: Flutter, Firebase, Bloc
+🔗 Repo: https://github.com/saaadgawesh/doctor_appointment_app
+
+🕌 Islami App
+
+👉 Quran, Hadith, Prayer, Qibla
+🔧 Tech: Flutter, Localization
+🔗 Repo: https://github.com/saaadgawesh/islami_app
+
+🚗 Uber Clone
+
+👉 Ride-hailing with maps & payments
+🔧 Tech: Flutter, Firebase, Maps
+🔗 Repo: https://github.com/saaadgawesh/uberClone
+
+🌐 Portfolio Website App
+
+👉 Personal portfolio built with Flutter
+🔗 Repo: https://github.com/saaadgawesh/protfolio
+
+📸 Insta App Clone
+
+👉 Social media UI + Auth + Feed
+🔗 Repo: https://github.com/saaadgawesh/insta_app_clone
+
+📝 Exam App
+
+👉 Quiz & results system
+🔗 Repo: https://github.com/saaadgawesh/exam_app
+
+🎯 What I Focus On
+
+👉 Flutter app development
+👉 Clean architecture & scalable structure
+👉 State management (Bloc / Cubit / Provider)
+👉 Firebase integration
+👉 API integration & local storage
+👉 Responsive & polished UI
+
+
+هح
