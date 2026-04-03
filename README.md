@@ -5,7 +5,7 @@ ________________________________________________________________________________
 
 👉 Flutter Developer building modern, scalable, and user-focused mobile experiences
 ___________________________________________________________________________________
-📬 Contact
+📬 **Contact**
 
 📧 Email: saadgawesh608@gmail.com
 
@@ -14,12 +14,12 @@ ________________________________________________________________________________
 🔗 LinkedIn:
 https://www.linkedin.com/in/mohamed-gawish-flutter-developer
 ___________________________________________________________________________________
-🙋‍♂️ About Me
+🙋‍♂️ **About Me**
 
 🚀 Flutter developer focused on building clean, responsive, and production-ready applications.
 💡 I enjoy turning product ideas into polished mobile experiences with solid architecture, reusable components, and smooth user flows.
 ___________________________________________________________________________________
-🛠️ Tech Stack
+🛠️ **Tech Stack**
 📱 Mobile & Core
 
 👉 Flutter
@@ -69,7 +69,7 @@ ________________________________________________________________________________
 👉 ScreenUtil
 👉 Localization
 ___________________________________________________________________________________
-🚀 Featured Projects
+🚀**Featured Projects**
 📦 RouteX Fleet Management
 
 👉 Fleet and shipment management app for drivers and warehouse teams
@@ -157,7 +157,7 @@ __________________________________________
 👉 Quiz & results system
 🔗 Repo: https://github.com/saaadgawesh/exam_app
 ___________________________________________________________________________________
-🎯 What I Focus On
+🎯 **What I Focus On**
 
 👉 Flutter app development
 👉 Clean architecture & scalable structure
