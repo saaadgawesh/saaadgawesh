@@ -5,15 +5,6 @@ ________________________________________________________________________________
 
 👉 Flutter Developer building modern, scalable, and user-focused mobile experiences
 ___________________________________________________________________________________
-📬 **Contact**
-
-📧 Email: saadgawesh608@gmail.com
-
-💻 GitHub: https://github.com/saaadgawesh
-
-🔗 LinkedIn:
-https://www.linkedin.com/in/mohamed-gawish-flutter-developer
-___________________________________________________________________________________
 🙋‍♂️ **About Me**
 
 🚀 Flutter developer focused on building clean, responsive, and production-ready applications.
@@ -23,52 +14,73 @@ ________________________________________________________________________________
 
 📱 Mobile & Core
 
-👉 Flutter
-👉 Dart
-
+ Flutter
+ 
+ Dart
+_____________________
 🔄 State Management
 
-👉 Bloc
-👉 Cubit
-👉 Provider
-👉 Equatable
-
+ Bloc
+ 
+ Cubit
+ 
+ Provider
+ 
+Equatable
+_____________________
 🔥 Backend & Firebase
 
-👉 Firebase
-👉 Firebase Auth
-👉 Cloud Firestore
-👉 Firebase Storage
-👉 Firebase Messaging
-
+ Firebase
+ 
+ Firebase Auth
+ 
+ Cloud Firestore
+ 
+ Firebase Storage
+ 
+ Firebase Messaging
+_____________________
 🌐 Networking & APIs
 
-👉 REST API
-👉 Dio
-👉 HTTP
-👉 Retrofit
-
+ REST API
+ 
+ Dio
+ 
+ HTTP
+ 
+ Retrofit
+_____________________
 🧱 Architecture & DI
 
-👉 Clean Architecture
-👉 GetIt
-👉 Injectable
-👉 JSON Serializable
+ Clean Architecture
 
+ GetIt
+ 
+ Injectable
+ 
+ JSON Serializable
+_________
 💾 Local Storage & Utilities
 
-👉 Hive
-👉 SQLite
-👉 Shared Preferences
-
+ Hive
+ 
+ SQLite
+ 
+ Shared Preferences
+_____________________
 🗺️ Maps & UI
 
-👉 Google Maps
-👉 Flutter Map
-👉 Geolocator
-👉 Responsive UI
-👉 ScreenUtil
-👉 Localization
+ Google Maps
+ 
+ Flutter Map
+ 
+ Geolocator
+ 
+ Responsive UI
+
+ ScreenUtil
+ 
+ Localization
 ___________________________________________________________________________________
 🚀**Featured Projects**
 
