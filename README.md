@@ -12,16 +12,16 @@ ________________________________________________________________________________
 ___________________________________________________________________________________
 💪✍️🏻 **Work Experience**
 
-Title: Flutter Developer
+👉Company: Elevate Tech
 
-Company: Elevate Tech
+Title: Flutter Developer
 
 Period: January 2026 – Present (4 months)
 
 
-Title: Flutter Developer
+👉Company: Humavolve
 
-Company: Humavolve
+Title: Flutter Developer
 
 Period: April 2025 – December 2025 (9 months)
 ___________________________________________________________________________________
