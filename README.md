@@ -10,6 +10,15 @@ ________________________________________________________________________________
 🚀 Flutter developer focused on building clean, responsive, and production-ready applications.
 💡 I enjoy turning product ideas into polished mobile experiences with solid architecture, reusable components, and smooth user flows.
 ___________________________________________________________________________________
+Work Experience 
+
+Title: Flutter Developer
+Company: Elevate Tech
+Period: January 2026 – Present (4 months)
+Title: Flutter Developer
+Company: Humavolve
+Period: April 2025 – December 2025 (9 months)
+___________________________________________________________________________________
 🛠️ **Tech Stack**
 
 📱 Mobile & Core
